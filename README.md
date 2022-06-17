@@ -1,3 +1,8 @@
 # IR-Project
-News Classification and Summarization
-Customer Segmentation using K Means Clustering
+1 News Classification and Summarization
+
+
+
+
+
+2 Customer Segmentation using K Means Clustering
